@@ -1,0 +1,19 @@
+{
+    "name": "aungsoeoo/randomstr",
+    "description": "Get random string package",
+    "type": "library",
+    "authors": [
+        {
+            "name": "aungsoeoo"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ASO\\App\\": "src"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    }
+}
