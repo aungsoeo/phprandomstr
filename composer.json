@@ -2,6 +2,12 @@
     "name": "aungsoeoo/randomstr",
     "description": "Get random string package",
     "type": "library",
+    "keywords": [
+        "php",
+        "random",
+        "randomstr"
+    ],
+    "license": "MIT",
     "authors": [
         {
             "name": "aungsoeoo"
